@@ -1,0 +1,6 @@
+#if user has showered > 4 days ago / (4*864000 seconds ago)
+#tell user f'You need to shower' print()!
+#if user sweats a lot / boo(True)
+#tell user f'You really need to shower' print()!
+#if user has just worked out / elif
+#tell user f'"You should shower after your workouts "!""' print()!
